@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/Upadte1/static/css/main.3f50d660.css",
-    "main.js": "/Upadte1/static/js/main.ad3c0471.js",
+    "main.js": "/Upadte1/static/js/main.586a4f91.js",
     "static/js/453.cbb80243.chunk.js": "/Upadte1/static/js/453.cbb80243.chunk.js",
     "static/media/card2.jpg": "/Upadte1/static/media/card2.f8ed32332a598a0f2530.jpg",
     "static/media/img2.jpeg": "/Upadte1/static/media/img2.cad1984fa52bec699861.jpeg",
     "static/media/web2.1.jpg": "/Upadte1/static/media/web2.1.4e4c6f79ec81f01b5daf.jpg",
     "static/media/web1.5.jpg": "/Upadte1/static/media/web1.5.3607e88fea99e69e5484.jpg",
     "static/media/glassesimoji.png": "/Upadte1/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/java1.jpg": "/Upadte1/static/media/java1.bce577efbe933f4f06fa.jpg",
+    "static/media/java2.png": "/Upadte1/static/media/java2.408f2e00ca51377c9d2c.png",
     "static/media/web5.jpg": "/Upadte1/static/media/web5.b461adc460739ced7f79.jpg",
     "static/media/card3.jpg": "/Upadte1/static/media/card3.b7cea0cff59298bb26b0.jpg",
+    "static/media/java4.jpg": "/Upadte1/static/media/java4.5b419e662ff86560182f.jpg",
     "static/media/card1.jpg": "/Upadte1/static/media/card1.b312e507be78bda1c635.jpg",
     "static/media/Web1.4.jpg": "/Upadte1/static/media/Web1.4.6195eb8b4b4adc92bb50.jpg",
     "static/media/web4.png": "/Upadte1/static/media/web4.f9efb4cf07a7dc8a900d.png",
@@ -20,14 +23,15 @@
     "static/media/crown.png": "/Upadte1/static/media/crown.dbe416beae9b49b842ab.png",
     "static/media/Vector2.png": "/Upadte1/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "static/media/web2.jpg": "/Upadte1/static/media/web2.381a3a73fe2c9953e655.jpg",
+    "static/media/java3.png": "/Upadte1/static/media/java3.4b343fe3cfd94a79a099.png",
     "static/media/web1.1.webp": "/Upadte1/static/media/web1.1.a8567d3080fd53440f59.webp",
     "index.html": "/Upadte1/index.html",
     "main.3f50d660.css.map": "/Upadte1/static/css/main.3f50d660.css.map",
-    "main.ad3c0471.js.map": "/Upadte1/static/js/main.ad3c0471.js.map",
+    "main.586a4f91.js.map": "/Upadte1/static/js/main.586a4f91.js.map",
     "453.cbb80243.chunk.js.map": "/Upadte1/static/js/453.cbb80243.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f50d660.css",
-    "static/js/main.ad3c0471.js"
+    "static/js/main.586a4f91.js"
   ]
 }
